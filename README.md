@@ -19,7 +19,7 @@ In this project, the student had to make use of Python to explore data related t
 #### Files Used
 The required files for running this program are:
 
-washington.csv
-new_york_city.csv
+washington.csv , 
+new_york_city.csv , 
 chicago.csv
 
