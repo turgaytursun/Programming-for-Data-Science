@@ -15,3 +15,11 @@ In this project, the student had to make use of Python to explore data related t
 
 [My Project Submission Files](https://github.com/turgaytursun/Programming-for-Data-Science/tree/main/Project2)
 
+
+#### Files Used
+The required files for running this program are:
+
+*washington.csv
+*new_york_city.csv
+*chicago.csv
+
